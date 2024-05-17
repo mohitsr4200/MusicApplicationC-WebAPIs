@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dil_ki_awaz.props" />
+</Project>
