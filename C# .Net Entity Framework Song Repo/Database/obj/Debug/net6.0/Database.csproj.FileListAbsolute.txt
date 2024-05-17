@@ -1,0 +1,28 @@
+G:\Bittu Projects\Dil_ki_awaz\Database\bin\Debug\net6.0\Database.deps.json
+G:\Bittu Projects\Dil_ki_awaz\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+G:\Bittu Projects\Dil_ki_awaz\Database\bin\Debug\net6.0\Database.dll
+G:\Bittu Projects\Dil_ki_awaz\Database\bin\Debug\net6.0\Database.pdb
+G:\Bittu Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+G:\Bittu Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bittu Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+G:\Bittu Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+G:\Bittu Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+G:\Bittu Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.dll
+G:\Bittu Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\refint\Database.dll
+G:\Bittu Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.pdb
+G:\Bittu Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+G:\Bittu Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\ref\Database.dll
+G:\Bittu_Projects\Dil_ki_awaz\Database\bin\Debug\net6.0\Database.deps.json
+G:\Bittu_Projects\Dil_ki_awaz\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+G:\Bittu_Projects\Dil_ki_awaz\Database\bin\Debug\net6.0\Database.dll
+G:\Bittu_Projects\Dil_ki_awaz\Database\bin\Debug\net6.0\Database.pdb
+G:\Bittu_Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+G:\Bittu_Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bittu_Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+G:\Bittu_Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+G:\Bittu_Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+G:\Bittu_Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.dll
+G:\Bittu_Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\refint\Database.dll
+G:\Bittu_Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.pdb
+G:\Bittu_Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+G:\Bittu_Projects\Dil_ki_awaz\Database\obj\Debug\net6.0\ref\Database.dll
